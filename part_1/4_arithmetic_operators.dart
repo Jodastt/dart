@@ -17,4 +17,7 @@ main() {
   var side = 5;
   var surfaceArea = 6 * pow(side, 2);
   print(surfaceArea);
+  
+  //shortcut for `num1 = num1 + 1`
+  num1 += 1;
 }
